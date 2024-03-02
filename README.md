@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *   🌍  I'm based in Waterloo ON and Calgary AB
 *   🖥️  See my portfolio at [AlexanderStratmoen.ca](http://alexanderstratmoen.ca)
 *   ✉️  You can contact me at [hello@alexanderstratmoen.ca](mailto:hello@alexanderstratmoen.ca)
-*   🚀  I'm currently working on [Cosine Networks](http://cosinenetworks.ca)
+*   🚀  I'm currently working on a Stealth Startup...
 *   🧠  I'm learning Computer Engineering at UW, Rust development, machine learning optimization for network architecture
 *   👀 I’m interested in: Security, Embedded Systems, Networks, Distributed systems, BlockChain, Machine Learning, Quantum Computing, fullstack, Lighting Design, Automation, Running, Surfing, Skiing, Outdoors, Social Action, Environment, Climate, Videography, Philosophy
 *   🤝  I'm open to collaborating on cool projects, open source stuff, and awesome things that make a difference in the world!
